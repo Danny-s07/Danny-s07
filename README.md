@@ -1,6 +1,6 @@
 ### Oi ! Eu sou  Daniela Salles 
 
-- 🌱 Estudando atualmente Front-end 
+- 🌱 Estudando atualmente UX/UI and some things in Front-end 
 - 😄 Pronouns: Ela/Dela
 ##
 <div align="center">
