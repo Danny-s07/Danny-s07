@@ -1,6 +1,6 @@
 ### Oi ! Eu sou  Daniela Salles 
 - 🎓 Técnica em Informática
-- 🌱  UX/UI and some things in Front-end 
+- 🌱  UX/UI 
 - 😄 Pronouns: Ela/Dela
 ##
 <div align="center">
