@@ -1,7 +1,7 @@
 ### Oi ! Eu sou  Daniela Salles 
-- 🤓 Estudante de Design Gráfico 
+- 📌 Estudante de Design Gráfico 
 - 🎓 Técnica em Informática
-- 🌱  UX/UI 
+- 🎓  UX/UI 
 - 😄 Pronouns: Ela/Dela
 ##
 <div align="center">
